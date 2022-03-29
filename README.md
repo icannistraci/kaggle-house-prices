@@ -2,7 +2,7 @@
 
 Project for [Fundamentals of Data Science](https://sites.google.com/di.uniroma1.it/fds-2021-2022/home?authuser=0) course (A.Y. 2018/2019).
 
-Full details are available in the full [report](https://github.com/icannistraci/kaggle-house-prices/report2019.pdf).
+Full details are available in the [report](https://github.com/icannistraci/kaggle-house-prices/report2019.pdf).
 
 Score: _0.11309_ (**top 3%** of the leaderboard).
 
